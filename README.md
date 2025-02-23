@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr. Gordon Johnson</h1>
+<h1 align="center">Gordon Johnson</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=210CF7&random=true&width=435&lines=A+Passionate+Software+Developer;Lecturer+%40+Kingston+University;Serious+Games+Developer;Applications+for+Health" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordgee&label=Profile%20views&color=0e75b6&style=flat" alt="lordgee" /> </p>
