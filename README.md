@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dr. Gordon Johnson</h1>
 <h3 align="center">A passionate developer and lecturer from London, UK</h3>
 
